@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
-[youtube](https://www.youtube.com/)
+[youtube](https://www.youtube.com/watch?v=oHg5SJYRHA0&ab_channel=cotter548)
+
+_italic whats up
+
+**b whats up
+
 You can use the [editor on GitHub](https://github.com/gaheeto/gaheeto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
